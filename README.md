@@ -1,4 +1,5 @@
 # Solutions for October 2020 leetcode challenge
+LeetCode is running the 30 Day LeetCoding Challenge for the month of October. This repository contains the solution of each problem solved in Python Language.
 
 
 Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge)
