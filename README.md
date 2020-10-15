@@ -15,5 +15,5 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 6. [Insert into a Binary Search Tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3485/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week1/Insert_Into_BST.py)
 7. [Rotate List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3486/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week1/Rotate_List.py)
 
-#Week 2
+# Week 2
 
