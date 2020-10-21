@@ -19,3 +19,4 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 
 1. [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Binary_Search.py)
 2. [Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/BST.py)
+3. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Min_Arrows.py)
