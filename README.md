@@ -17,3 +17,4 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 
 # Week 2
 
+1. [Binary Search](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3488/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week1/Binary_Search.py)
