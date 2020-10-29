@@ -24,3 +24,7 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 5. [Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Buddy_Strings.py)
 6. [Sort List](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Sort_List.py)
 7. [House Robber 2](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3494/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/House_Robber_2.py)
+
+# Week 3
+
+1. [](): [Solution]()
