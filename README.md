@@ -31,6 +31,6 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 2. [Search a 2D Matrix](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Search_2D_Matrix.py)
 3. [Repeated DNA Sequence](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Repeated_DNA_Sequence.py)
 4. [Best Time to Buy and Sell Stock 4](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Buy_Sell_Stock.py)
-5. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
-6. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
+5. [Minimum Domino Rotations for Equal Row](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3500/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
+6. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Minimum_Domino_Rotations.py)
 7. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
