@@ -21,3 +21,6 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 2. [Serialize and Deserialize BST](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3489/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/BST.py)
 3. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3490/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Min_Arrows.py)
 4. [Remove Duplicate Letters](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3491/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Remove_Duplicate.py)
+5. [Buddy Strings](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3492/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/Buddy_Strings.py)
+6. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/)
+7. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week2/)
