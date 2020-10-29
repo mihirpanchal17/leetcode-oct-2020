@@ -33,4 +33,4 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 4. [Best Time to Buy and Sell Stock 4](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Buy_Sell_Stock.py)
 5. [Minimum Domino Rotations for Equal Row](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3500/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Minimum_Domino_Rotations.py)
 6. [Clone Graph](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3501/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Clone_Graph.py)
-7. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
+7. [Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Asteroid_Collision.py)
