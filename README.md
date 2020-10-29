@@ -30,7 +30,7 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 1. [Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Rotate_Array.py)
 2. [Search a 2D Matrix](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3497/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Search_2D_Matrix.py)
 3. [Repeated DNA Sequence](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Repeated_DNA_Sequence.py)
-4. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
+4. [Best Time to Buy and Sell Stock 4](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3499/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Buy_Sell_Stock.py)
 5. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
 6. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
 7. [](): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/)
