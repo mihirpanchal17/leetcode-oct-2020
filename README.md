@@ -40,7 +40,7 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 1. [Minimum depth of binary tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Min_Depth_BT.py)
 2. [132 Pattern](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3505/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/132_Pattern.py)
 3. [Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Bag_of_Tokens.py)
-4. [](): [Solution]()
+4. [Stone Game 4](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Stone_Game_4.py)
 5. [](): [Solution]()
 6. [](): [Solution]()
 7. [](): [Solution]()
