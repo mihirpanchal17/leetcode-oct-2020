@@ -42,5 +42,5 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 3. [Bag of Tokens](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3506/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Bag_of_Tokens.py)
 4. [Stone Game 4](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3507/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Stone_Game_4.py)
 5. [Champagne Tower](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3508/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Champagne_Tower.py)
-6. [](): [Solution]()
+6. [Linked List Cycle 2](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3509/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Linked_List_Cycle_2.py)
 7. [](): [Solution]()
