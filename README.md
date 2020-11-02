@@ -34,3 +34,13 @@ Challenge Link: [Leetcode October Challenge](https://leetcode.com/explore/challe
 5. [Minimum Domino Rotations for Equal Row](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3500/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Minimum_Domino_Rotations.py)
 6. [Clone Graph](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3501/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Clone_Graph.py)
 7. [Asteroid Collision](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3502/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week3/Asteroid_Collision.py)
+
+# Week 4
+
+1. [Minimum depth of binary tree](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/562/week-4-october-22nd-october-28th/3504/): [Solution](https://github.com/mihirpanchal17/leetcode-oct-2020/blob/main/Week4/Min_Depth_BT.py)
+2. [](): [Solution]()
+3. [](): [Solution]()
+4. [](): [Solution]()
+5. [](): [Solution]()
+6. [](): [Solution]()
+7. [](): [Solution]()
